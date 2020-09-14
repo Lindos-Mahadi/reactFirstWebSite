@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactFirstWebSite/static/css/main.9340cedb.chunk.css",
+    "main.js": "/reactFirstWebSite/static/js/main.7d7e3f46.chunk.js",
+    "main.js.map": "/reactFirstWebSite/static/js/main.7d7e3f46.chunk.js.map",
+    "runtime-main.js": "/reactFirstWebSite/static/js/runtime-main.adc26207.js",
+    "runtime-main.js.map": "/reactFirstWebSite/static/js/runtime-main.adc26207.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/reactFirstWebSite/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.2eac8a1c.chunk.js": "/reactFirstWebSite/static/js/2.2eac8a1c.chunk.js",
+    "static/js/2.2eac8a1c.chunk.js.map": "/reactFirstWebSite/static/js/2.2eac8a1c.chunk.js.map",
+    "index.html": "/reactFirstWebSite/index.html",
+    "precache-manifest.9cc4e1a2cadd3aea8c8d7b79d238b46a.js": "/reactFirstWebSite/precache-manifest.9cc4e1a2cadd3aea8c8d7b79d238b46a.js",
+    "service-worker.js": "/reactFirstWebSite/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/reactFirstWebSite/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.9340cedb.chunk.css.map": "/reactFirstWebSite/static/css/main.9340cedb.chunk.css.map",
+    "static/js/2.2eac8a1c.chunk.js.LICENSE.txt": "/reactFirstWebSite/static/js/2.2eac8a1c.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/reactFirstWebSite/static/media/about.fe33d6ef.jpg",
+    "static/media/friend1.png": "/reactFirstWebSite/static/media/friend1.33eba522.png",
+    "static/media/friend2.png": "/reactFirstWebSite/static/media/friend2.ea765aa4.png",
+    "static/media/friend3.png": "/reactFirstWebSite/static/media/friend3.3ab8efc4.png",
+    "static/media/rockets.png": "/reactFirstWebSite/static/media/rockets.18c2ab60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc26207.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.2eac8a1c.chunk.js",
+    "static/css/main.9340cedb.chunk.css",
+    "static/js/main.7d7e3f46.chunk.js"
+  ]
+}
